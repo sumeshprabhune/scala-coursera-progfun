@@ -1,0 +1,14 @@
+target/
+project/
+.project
+.cache*
+.classpath
+.settings/
+bin/
+.idea
+*.iml
+/server/*.epoch
+configurations
+logs
+*.zip
+*.dat
